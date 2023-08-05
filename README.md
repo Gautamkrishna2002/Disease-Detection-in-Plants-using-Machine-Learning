@@ -1,24 +1,32 @@
-# ⭐Plant-Disease-Detection
-* Plant Disease is necessary for every farmer so we are created Plant disease detection using Deep learning. In which we are using Convoluitona neural Netowork for classifying Leaf images into 39 Different Categories. The Convolutional Neural Code build in Pytorch Framework. For Training we are using Plant village dataset. Dataset Link is in My Blog Section.
+# Plant-Disease-Detection
 
-## ⭐Contribution ( Open Source )
-* This Project is now open source.
-* All the developers who are interested they can contribute in this project.
-* Yo can make UI better , make Deep learning model more powerful , add informative markdown file in section...
-* If you will change Deep learning make sure you upload updated markdown file (.md) , .pdf and .ipynb in particular section.
-* Make sure your code is working. It will not have any type or error.
-* You have to fork this project then make a pull request after you testing will successful.
+Plant Disease Detection is a deep learning project aimed at helping farmers detect diseases in plants using Convolutional Neural Networks (CNN). The project uses Pytorch framework for building the CNN model and classifying leaf images into 39 different categories. The dataset used for training the model is the Plant Village dataset, and you can find the dataset link in the blog section.
 
+## Contribution (Open Source)
 
-## ⭐Testing Images
+This project is now open source, and developers interested in contributing can do so in the following ways:
 
-* If you do not have leaf images then you can use test images located in test_images folder
-* Each Image have it's disease name so you can verify model is working perfact or not.
+- Improve the User Interface (UI).
+- Enhance the deep learning model to make it more powerful and accurate.
+- Add informative markdown files in specific sections.
+- Ensure that any changes to the deep learning model are well-documented by uploading updated markdown files (.md), PDFs, and Jupyter Notebooks (.ipynb) in their respective sections.
+- Thoroughly test the code to ensure there are no errors or issues.
+- To contribute, fork this project, make the necessary changes, and then create a pull request after successful testing.
 
-## ⭐Blog Link
-<a href="https://medium.com/analytics-vidhya/plant-disease-detection-using-convolutional-neural-networks-and-pytorch-87c00c54c88f" target = "_blank">Plant Disease Detection Using Convolutional Neural Networks with PyTorch</a><br>
+## Testing Images
 
-## ⭐Deployed App
-<a href="https://plant-disease-detection-ai.herokuapp.com/" target = "_blank">Plant-Disease-Detection-AI</a><br>
+If you don't have leaf images for testing, you can use the test images located in the "test_images" folder. Each image in this folder is labeled with its corresponding disease name, allowing you to verify the model's performance.
 
+## Blog Link
 
+For more details about the project and how it was developed, you can read the blog on Plant Disease Detection Using Convolutional Neural Networks with PyTorch by visiting the following link:
+
+[Plant Disease Detection Using Convolutional Neural Networks with PyTorch](https://medium.com/analytics-vidhya/plant-disease-detection-using-convolutional-neural-networks-and-pytorch-87c00c54c88f)
+
+## Deployed App
+
+The Plant-Disease-Detection-AI app is deployed and accessible at the following link:
+
+[Plant-Disease-Detection-AI](https://plant-disease-detection-ai.herokuapp.com/)
+
+Feel free to explore the app and test the plant disease detection capabilities using the provided test images. If you encounter any issues or have ideas for improvements, don't hesitate to contribute to the project! Together, we can make plant disease detection more accessible and reliable for farmers.
